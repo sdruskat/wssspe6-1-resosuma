@@ -5,7 +5,7 @@ Daniel S. Katz, ORCID [0000-0001-5934-7525](https://orcid.org/0000-0001-5934-752
 
 WSSSPE6.1 at IEEE eScience 2018, 29 Oct 2018, Amsterdam, NL
 
-Slides: https://sdruskat.net/wssspe-6-1-resosuma/
+Slides: https://sdruskat.net/wssspe6-1-resosuma/
 
 
 
@@ -106,6 +106,8 @@ https://doi.org/10.6084/m9.figshare.6081248.v1</td>
 | *People* | *use* | *Software* |
 | ... | ... | ... |
 
+S. Druskat, “resosuma: 0.2.0,” Jun. 2018. [Online]. Available: https://doi.org/10.5281/zenodo.1304254
+
 
 ### Research software sustainability mapping v2
 
@@ -135,6 +137,8 @@ future work to include structured literature analysis
 - *are* introduced: *RSEs* + *Researchers* may be same person in different roles
 - Further activities added: *own* (*RSEs*-*Research software*)
 
+S. Druskat, D. S. Katz, and N. Chue Hong, “research-software/resosuma-data: 0.4.0,” Sep. 2018. [Online]. Available: https://doi.org/10.5281/zenodo.1419768
+
 
 ### Research software sustainability mapping v3
 
@@ -163,7 +167,7 @@ future work to include structured literature analysis
 *Funding assistance (S. Druskat):* **Software Sustainability Institute** <i class="fa fa-heart"/></i>  
 (EPSRC, BBSRC, ESRC Grant EP/N006410/1)
 
-Slides: https://sdruskat.net/wssspe-6-1-resosuma/
+Slides: https://sdruskat.net/wssspe6-1-resosuma/
 
 stephan.druskat@hu-berlin.de, <i class="fa fa-twitter"/></i> [@stdruskat](https://twitter.com/stdruskat),
 <i class="fa fa-github"/></i> [@sdruskat](https://github.com/sdruskat)  
