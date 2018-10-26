@@ -11,7 +11,7 @@ Slides: https://sdruskat.net/wssspe6-1-resosuma/
 
 ## About us
 
-- **Stephan:** RSE (linguistics), Humboldt-Universität zu Berlin
+- **Stephan:** RSE (linguistics), Humboldt-Universität zu Berlin; Software Sustainability Institute (SSI) Collaborator
 - **Dan:** Assistant Director for Scientific Software and Applications, 
 National Center for Supercomputing Applications (NCSA); Research Associate Professor (Computer Science, Electrical and Computer Engineering, School of Information Sciences), University of Illinois Urbana-Champaign; Better Scientific Software (BSSw) Fellow
 
