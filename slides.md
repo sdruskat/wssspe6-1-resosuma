@@ -78,7 +78,7 @@ https://doi.org/10.6084/m9.figshare.6081248.v1</td>
 
 ### Research software sustainability mapping v2
 
-#### Optimization of v1 in v2
+#### Optimization of v1
 
 - Comprehensiveness
 - Disassembly of combined activities
@@ -118,7 +118,7 @@ S. Druskat, “resosuma: 0.2.0,” Jun. 2018. [Online]. Available: https://doi.o
 
 ### Research software sustainability mapping v3
 
-#### Refinement of v2 in v3
+#### Refinement of v2
 
 - Comprehensiveness
 - Higher resolution
@@ -130,7 +130,7 @@ future work to include structured literature analysis
 
 ### Research software sustainability mapping v3
 
-#### Refinement of v2 in v3
+#### Refinement of v2
 
 - *People* > *Research Software Engineers*, *Researchers*, *Educators*
 - *Publishers, repositories, indices* > different nodes, respective activities
