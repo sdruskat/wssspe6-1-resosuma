@@ -225,6 +225,8 @@ body {
 .reveal small * {
   vertical-align: top; }
 
+.reveal i.fa { font-family:FontAwesome; font-style: normal; }
+
 /*********************************************
  * LINKS
  *********************************************/
