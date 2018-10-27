@@ -61,6 +61,15 @@ sustainability space**
 
 
 
+### Similar work by Jay & Haines for [WSSSPE5.1 report](https://arxiv.org/abs/1807.07387)
+
+<img src="jors.png" style="width: 50%">
+
+Jay C, Haines R. WSSSPE 5.1 - Data for speed blog analysis; 2018.
+Available from: https://doi.org/10.5281/zenodo.1305091.
+
+
+
 ### Research software sustainability mapping v1
 
 <table style="height: 100em;">
