@@ -8,7 +8,7 @@ WSSSPE6.1 at IEEE eScience 2018, 29 Oct 2018, Amsterdam, NL
 Slides: https://sdruskat.net/wssspe6-1-resosuma/
 
 Note:
-# - Going to talk about a model to record activities in the research software sustainability space
+# - Going to talk about a model to record activities in the space where WSSSPE is active, the research software sustainability space
 # - This model can be used to build a classification scheme for research output from the space
 # - And to identify gaps and avoid duplication of efforts
 
@@ -16,7 +16,7 @@ Note:
 
 ## About us
 
-- **Stephan:** RSE (linguistics), Humboldt-Universität zu Berlin; Software Sustainability Institute (SSI) Collaborator
+- **Stephan:** RSE (linguistics), Humboldt-Universität zu Berlin; collaboration with the Software Sustainability Institute (SSI)
 - **Dan:** Assistant Director for Scientific Software and Applications, 
 National Center for Supercomputing Applications (NCSA); Research Associate Professor (Computer Science, Electrical and Computer Engineering, School of Information Sciences), University of Illinois Urbana-Champaign; Better Scientific Software (BSSw) Fellow
 
@@ -36,7 +36,8 @@ Note:
 # - WSSSPE organization and series of workshops
 # - To a certain extent the international RSE community
 # - And a number of new actors: URSSI + Better Scientific Software Community
-# - A new initiative by leaders in the space (Michelle Barker XXXTODO, Dan Katz, Neil Chue Hong) to better coordinate international efforts ("Research Software Alliance")
+# - A new initiative by leaders in the space (Michelle Barker, Dan Katz, Neil Chue Hong) to better coordinate international efforts
+# - They've met after RSE18 and the day before this workshop ("Research Software Alliance")
 
 
 
@@ -49,7 +50,7 @@ Note:
 	- neglect of specific areas
 
 Note:
-# - All actors publish research in different venues: journals, blogs, etc.
+# - All actors publish, or enable th publication of, research in different venues: journals, blogs, etc.
 # - Research feeds back into policy, education, and hiring practices in instutions
 # - Also into educational activities (Carpentries)
 # - Efforts are not coordinated, and perhaps shouldn't be (for reasons of productivity)
@@ -60,10 +61,10 @@ Note:
 
 ### Mapping research software sustainability activities
 
-<i class="fa fa-lightbulb"></i> **Map activities in the research software 
+<i class="fa fa-lightbulb-o"></i> **Map activities in the research software 
 sustainability space**
 
-<i class="fa fa-lightbulb"></i> **Classify efforts (past, present, future) according to mapping**
+<i class="fa fa-lightbulb-o"></i> **Classify efforts (past, present, future) according to mapping**
 
 - Application reduces risks (duplication of efforts, neglect of areas)
 - Specifies involved parties and activities
@@ -82,7 +83,7 @@ Note:
 
 Note:
 # - There are existing classification schemes for software-related activities
-# - For example: ACM XXXTODO XXXOTHERS?XXX
+# - For example: ACM Computing Classification System
 # - The problem with those is that they do not reflect the configuration of the research software sustainability space in terms of agents and activities
 # - I'll come to the mapping proper
 
@@ -117,8 +118,8 @@ https://doi.org/10.6084/m9.figshare.6081248.v1</td>
 
 Note:
 # - This is the original schematic that both Caroline & Rob and I started from
-# - Used by Dan in his talk at the SSI Collaborations Workshop in XXXTODO
-# - Very general nodes representing agents, and edges that cluster activity verbs
+# - Used by Dan in his talk at the SSI Collaborations Workshop in March
+# - It uses very general nodes representing agents, and edges that cluster activity verbs
 
 
 
@@ -132,7 +133,7 @@ Note:
 - Filling gaps
 
 Note:
-# - I have started to optimized this schematic for to build it into a more comprehensive schematic
+# - In order to use this schematic as the baseline for a classification scheme, I have started to optimize it and make it more comprehensive
 # - Increased resolution by splitting the concepts of some nodes
 # - And disassembling combined activities
 # - Finally filled some gaps
@@ -168,7 +169,7 @@ Note:
 S. Druskat, “resosuma: 0.2.0,” Jun. 2018. [Online]. Available: https://doi.org/10.5281/zenodo.1304254
 
 Note:
-# - XXX HERE
+# - I've disassembled the activities, that is, the edges in the original schematic
 
 
 ### Research software sustainability mapping v2
@@ -176,7 +177,7 @@ Note:
 <img src="graph-katz.png" style="width: 90%;">
 
 Note:
-# - This CSV can be transformed to a directed graph with a simple Python package
+# - I've then transformed this CSV to a directed graph in DOT with a simple Python package
 
 
 
@@ -217,6 +218,10 @@ Note:
 
 <img src="graph.png" style="width: 60%;">
 
+Note:
+# - SHOW CSV
+# - SHOW VIS
+
 
 
 ### Research software sustainability mapping v4?
@@ -232,6 +237,9 @@ Note:
 - Diversify scheme granularity?
 - Multipliers (editors/program committees) to ask for tags in keywords
 - Create a central resource for resosuma (website?)
+
+Note:
+# - 
 
 
 
