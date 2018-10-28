@@ -193,6 +193,7 @@ future work to include structured literature analysis
 
 Note:
 # - In a second step I havee then refined the model in the CSV
+# - Word of warning: all based on introspection, should be quantified, e.g., by a structured literature analysis
 
 
 ### Research software sustainability mapping v3
