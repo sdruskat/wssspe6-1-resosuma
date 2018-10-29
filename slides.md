@@ -44,6 +44,7 @@ Note:
 ### The research software sustainability space
 
 - All actors conduct research and publish within the space
+- Results feed back into policy, education, hiring practices
 - Efforts are uncoordinated
 - (Desirable) autonomy of activities bears risks: 
 	- duplication of efforts
@@ -207,7 +208,7 @@ Note:
 - *are* introduced: *RSEs* + *Researchers* may be same person in different roles
 - Further activities added: *own* (*RSEs*-*own*-*Research software*)
 
-S. Druskat, D. S. Katz, and N. Chue Hong, “research-software/resosuma-data: 0.4.0,” Sep. 2018. [Online]. Available: https://doi.org/10.5281/zenodo.1419768
+S. Druskat, D. S. Katz, and N. Chue Hong, “research-software/resosuma-data: 0.4.1,” Oct. 2018. [Online]. Available: http://doi.org/10.5281/zenodo.1473454
 
 Note:
 # - Split nodes, e.g., the "People" node.
@@ -216,7 +217,7 @@ Note:
 
 ### Research software sustainability mapping v3
 
-<img src="graph.png" style="width: 60%;">
+<img src="graph-new.png" style="width: 60%;">
 
 Note:
 # - SHOW CSV
@@ -228,7 +229,7 @@ Note:
 
 #### a.k.a. Future work (by the community!)
 
-- Find a usable visualization (web-based?)
+- Develop a usable visualization (web-based?)
 - Complete the model
 	- Iterative versions track state changes in the space
 - Build a classification scheme
